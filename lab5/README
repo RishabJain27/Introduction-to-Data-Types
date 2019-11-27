@@ -1,0 +1,9 @@
+#Rishab Jain, rjain9, 12M, 8/6/17, README for lab5
+#----------------------------------------------
+Table of Contents:
+README
+Makefile
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c

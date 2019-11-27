@@ -1,0 +1,10 @@
+#README
+Table of Contents:
+README 
+Dictionary.java //Node class with two strings
+DictionaryTest.java
+DuplicateKeyException.java 
+KeyNotFoundException.java 
+DictionaryInterface.java 
+DictionaryClient.java 
+Makefile
